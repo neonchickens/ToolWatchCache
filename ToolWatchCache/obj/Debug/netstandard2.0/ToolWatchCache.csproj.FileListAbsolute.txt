@@ -1,0 +1,9 @@
+C:\Users\Weston\Documents\Visual Studio 2017\Projects\ToolWatchCache\ToolWatchCache\bin\Debug\netstandard2.0\ToolWatchCache.deps.json
+C:\Users\Weston\Documents\Visual Studio 2017\Projects\ToolWatchCache\ToolWatchCache\bin\Debug\netstandard2.0\ToolWatchCache.dll
+C:\Users\Weston\Documents\Visual Studio 2017\Projects\ToolWatchCache\ToolWatchCache\bin\Debug\netstandard2.0\ToolWatchCache.pdb
+C:\Users\Weston\Documents\Visual Studio 2017\Projects\ToolWatchCache\ToolWatchCache\obj\Debug\netstandard2.0\ToolWatchCache.csprojAssemblyReference.cache
+C:\Users\Weston\Documents\Visual Studio 2017\Projects\ToolWatchCache\ToolWatchCache\obj\Debug\netstandard2.0\ToolWatchCache.csproj.CoreCompileInputs.cache
+C:\Users\Weston\Documents\Visual Studio 2017\Projects\ToolWatchCache\ToolWatchCache\obj\Debug\netstandard2.0\ToolWatchCache.AssemblyInfoInputs.cache
+C:\Users\Weston\Documents\Visual Studio 2017\Projects\ToolWatchCache\ToolWatchCache\obj\Debug\netstandard2.0\ToolWatchCache.AssemblyInfo.cs
+C:\Users\Weston\Documents\Visual Studio 2017\Projects\ToolWatchCache\ToolWatchCache\obj\Debug\netstandard2.0\ToolWatchCache.dll
+C:\Users\Weston\Documents\Visual Studio 2017\Projects\ToolWatchCache\ToolWatchCache\obj\Debug\netstandard2.0\ToolWatchCache.pdb

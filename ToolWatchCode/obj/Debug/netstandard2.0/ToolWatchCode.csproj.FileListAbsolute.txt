@@ -1,0 +1,12 @@
+C:\Users\Weston\Documents\Visual Studio 2017\Projects\ToolWatchCache\ToolWatchCode\bin\Debug\netstandard2.0\ToolWatchCode.deps.json
+C:\Users\Weston\Documents\Visual Studio 2017\Projects\ToolWatchCache\ToolWatchCode\bin\Debug\netstandard2.0\ToolWatchCode.dll
+C:\Users\Weston\Documents\Visual Studio 2017\Projects\ToolWatchCache\ToolWatchCode\bin\Debug\netstandard2.0\ToolWatchCode.pdb
+C:\Users\Weston\Documents\Visual Studio 2017\Projects\ToolWatchCache\ToolWatchCode\bin\Debug\netstandard2.0\ToolWatchCache.dll
+C:\Users\Weston\Documents\Visual Studio 2017\Projects\ToolWatchCache\ToolWatchCode\bin\Debug\netstandard2.0\ToolWatchCache.pdb
+C:\Users\Weston\Documents\Visual Studio 2017\Projects\ToolWatchCache\ToolWatchCode\obj\Debug\netstandard2.0\ToolWatchCode.csprojAssemblyReference.cache
+C:\Users\Weston\Documents\Visual Studio 2017\Projects\ToolWatchCache\ToolWatchCode\obj\Debug\netstandard2.0\ToolWatchCode.csproj.CoreCompileInputs.cache
+C:\Users\Weston\Documents\Visual Studio 2017\Projects\ToolWatchCache\ToolWatchCode\obj\Debug\netstandard2.0\ToolWatchCode.AssemblyInfoInputs.cache
+C:\Users\Weston\Documents\Visual Studio 2017\Projects\ToolWatchCache\ToolWatchCode\obj\Debug\netstandard2.0\ToolWatchCode.AssemblyInfo.cs
+C:\Users\Weston\Documents\Visual Studio 2017\Projects\ToolWatchCache\ToolWatchCode\obj\Debug\netstandard2.0\ToolWatchCode.csproj.CopyComplete
+C:\Users\Weston\Documents\Visual Studio 2017\Projects\ToolWatchCache\ToolWatchCode\obj\Debug\netstandard2.0\ToolWatchCode.dll
+C:\Users\Weston\Documents\Visual Studio 2017\Projects\ToolWatchCache\ToolWatchCode\obj\Debug\netstandard2.0\ToolWatchCode.pdb
